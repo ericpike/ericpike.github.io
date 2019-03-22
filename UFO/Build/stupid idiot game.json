@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2DTestGame",
+"dataUrl": "stupid idiot game.data.unityweb",
+"asmCodeUrl": "stupid idiot game.asm.code.unityweb",
+"asmMemoryUrl": "stupid idiot game.asm.memory.unityweb",
+"asmFrameworkUrl": "stupid idiot game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
